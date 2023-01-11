@@ -1,19 +1,25 @@
-var favoriteCar = "toyota camry"//jeep cheroke;
-var hatType = "cowboy"//baseball;
-var weatherStatus = "rainy"//sunny;
+var favoriteCar = "toyota camry";
+var hatType = "cowboy";
+var weatherStatus = "rainy";
 
-var gasPrice = "3.89";
-var speedLimit = "65";
-var numberOfCats = "1";
+var gasPrice = 3.89;
+var speedLimit = 65;
+var numberOfCats = 1;
 
-var lightsOn = "true";
-var tankFull = "false";
-var dinnerTime = "false";
+var lightsOn = true;
+var tankFull = false;
+var dinnerTime = false;
+
+favoriteCar = "jeep";
+hatType = "baseball";
+weatherStatus = "sunny";
  
-console.log("hello there!")
-console.log("Not sure semicolons were the right choice")
-console.log("I suppose we shall see")
-console.log("Hope I am understanding JavaScript so far")
-console.log("Can't wait to run this code!")
-console.log("One more should do it.")
-console.log("We are done with logs!")
+console.log(favoriteCar)
+console.log(hatType)
+console.log(weatherStatus)
+console.log(gasPrice)
+console.log(speedLimit)
+console.log(numberOfCats)
+console.log(lightsOn)
+console.log(tankFull)
+console.log(dinnerTime)
